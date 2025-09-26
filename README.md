@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
