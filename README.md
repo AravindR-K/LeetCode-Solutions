@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
