@@ -2,13 +2,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -19,8 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -30,24 +31,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0062-unique-paths) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0724-find-pivot-index](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -60,70 +62,78 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0074-search-a-2d-matrix](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0611-valid-triangle-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0074-search-a-2d-matrix](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0392-is-subsequence](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
