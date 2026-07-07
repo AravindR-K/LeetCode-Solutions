@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
