@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AravindR-K/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/AravindR-K/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
