@@ -1,17 +1,18 @@
 class Solution {
-    public int f(int n, int[] nums, int[] dp) {
+
+    public int f(int[] nums, int n, int[] arr) {
         if (n == 0) return nums[n];
         if (n < 0) return 0;
-        if (dp[n] != -1) return dp[n];
-        int pick = nums[n] + f(n-2, nums, dp);
-        int notPick = 0 + f(n-1, nums, dp);
-        return dp[n] = Math.max(pick, notPick);
+        if (arr[n] != -1) return arr[n];
+        int pick = nums[n] + f(nums, n-2, arr);
+        int notPick = 0 + f(nums, n-1, arr);
+        return arr[n] = Math.max(pick, notPick);
     }
 
     public int rob(int[] nums) {
-        int n = nums.length - 1;
-        int[] dp = new int[n+1];
-        Arrays.fill(dp, -1);
-       return f(n, nums, dp);
+        int n = nums.length-1;
+        int[] arr = new int[n+1];
+        Arrays.fill(arr, -1);
+        return f(nums, n, arr);
     }
 }
